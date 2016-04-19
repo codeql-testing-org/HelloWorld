@@ -16,5 +16,6 @@ public class App
     public void testMethod () {
 
       System.out.println("Hello World Twice!");
+      System.out.println("adding something else to see what happens");
     }
 }
